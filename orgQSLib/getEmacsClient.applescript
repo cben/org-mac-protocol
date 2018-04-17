@@ -32,7 +32,7 @@ Installation
 2) Save as File Format: Script in  ~/Library/Scripts/orgQSLib/
 3) Edit theEmacsClient to point to your emacsclient
 
-Please see org-mac-protocol.org for full installation and usage instructions
+Please see README.org for full installation and usage instructions
 *)
 
 on getEmacsClient()

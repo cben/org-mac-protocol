@@ -31,7 +31,7 @@ Installation
 1) Open in AppleScript Editor
 2) Save as File Format: Script in  ~/Library/Scripts/
 
-Please see org-mac-protocol.org for full installation and usage instructions
+Please see README.org for full installation and usage instructions
 *)
 
 set ASTID to AppleScript's text item delimiters

@@ -31,7 +31,7 @@
 
 # 1) Copy to ~/Library/Scripts/orgQSLib/
 
-# Please see org-mac-protocol.org for full installation and usage
+# Please see README.org for full installation and usage
 # instructions
 
 require 'uri'

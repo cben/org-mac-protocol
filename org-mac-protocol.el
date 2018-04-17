@@ -33,7 +33,7 @@
 
 ;;; Installation and Usage
 ;;
-;; Please see org-mac-protocol.org
+;; Please see README.org
 
 ;;; Credit
 ;;
